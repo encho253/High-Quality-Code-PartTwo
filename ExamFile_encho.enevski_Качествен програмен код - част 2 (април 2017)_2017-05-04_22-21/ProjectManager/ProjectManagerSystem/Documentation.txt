@@ -1,0 +1,10 @@
+﻿Bugs:
+
+#1 Startup.cs: In main class, when try to create new Engine -> cannot convert from string to ProjectManager.Common.FileLogger
+#2 Engine.cs: Line 28 -> for loop
+#3 CommandsFactory.cs ->The body of the while statement must be wrapped in opening and closing curly brackets.
+#4 ProjectManagerSystem.Common -> line 19 comment code
+
+Bottleneck:
+
+#1
